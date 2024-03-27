@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T11:48:06.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SUKesa_2a_7W_XcIVNvD" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T11:54:38.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wObzJao7O0J748NAAIXL" version="24.2.0" type="github">
   <diagram name=" IMS Design" id="VsOKy8HMH-eMZyT6rsmT">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,11 +56,8 @@
         <mxCell id="oJ0oxciB_dJQakIOD-1f-92" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="oJ0oxciB_dJQakIOD-1f-96">
           <mxGeometry y="34.379999999999995" width="165.5" height="175.62" as="geometry" />
         </mxCell>
-        <mxCell id="oJ0oxciB_dJQakIOD-1f-70" value="&lt;font size=&quot;1&quot; color=&quot;#000033&quot;&gt;&lt;b style=&quot;&quot;&gt;Authentication Service&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="oJ0oxciB_dJQakIOD-1f-96">
-          <mxGeometry x="8.25" y="45.589999999999975" width="149" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="oJ0oxciB_dJQakIOD-1f-81" value="&lt;font size=&quot;1&quot; color=&quot;#000033&quot;&gt;&lt;b style=&quot;&quot;&gt;Authorization Service&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="oJ0oxciB_dJQakIOD-1f-96">
-          <mxGeometry x="8.25" y="78.83999999999997" width="149" height="24" as="geometry" />
+        <mxCell id="oJ0oxciB_dJQakIOD-1f-70" value="&lt;font size=&quot;1&quot; color=&quot;#000033&quot;&gt;&lt;b style=&quot;&quot;&gt;Authentication and&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 0, 51); font-size: x-small;&quot;&gt;Authorization&amp;nbsp; Service&lt;/b&gt;&lt;font size=&quot;1&quot; color=&quot;#000033&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;(0Auth2, JWT)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="oJ0oxciB_dJQakIOD-1f-96">
+          <mxGeometry x="8.25" y="45.59" width="149" height="54.41" as="geometry" />
         </mxCell>
         <mxCell id="oJ0oxciB_dJQakIOD-1f-71" value="&lt;b style=&quot;color: rgb(0, 0, 51);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Encryption and Key Management&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="oJ0oxciB_dJQakIOD-1f-96">
           <mxGeometry x="8.25" y="112.83999999999997" width="149" height="34.75" as="geometry" />
