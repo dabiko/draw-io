@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T08:16:34.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.1.0" etag="TR4MkHrqlsSwOQOvwLqZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T09:16:49.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MT67doYUVS-VxUAVVwo9" version="24.2.0" type="github">
   <diagram name="Page-1" id="VsOKy8HMH-eMZyT6rsmT">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oJ0oxciB_dJQakIOD-1f-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
+          <mxGeometry x="20" y="369" width="31.36" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ0oxciB_dJQakIOD-1f-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="10.68" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ0oxciB_dJQakIOD-1f-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="60.68" y="440" width="30" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
