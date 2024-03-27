@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T12:15:29.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0--5yWK_BpcS7IwwjAZR" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T12:20:51.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aBT9TyemLsP0J-8vBb50" version="24.2.0" type="github">
   <diagram name=" IMS Design" id="VsOKy8HMH-eMZyT6rsmT">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,21 @@
           <mxGeometry x="800" y="607" width="149" height="24" as="geometry" />
         </mxCell>
         <mxCell id="oJ0oxciB_dJQakIOD-1f-172" value="&lt;font size=&quot;1&quot; color=&quot;#000033&quot;&gt;&lt;b style=&quot;&quot;&gt;API calls, Message queues, other communication mechanism&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;container=0;" vertex="1" parent="1">
-          <mxGeometry x="629.25" y="185" width="149" height="45" as="geometry" />
+          <mxGeometry x="628.25" y="185" width="149" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ0oxciB_dJQakIOD-1f-174" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=-0.04;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oJ0oxciB_dJQakIOD-1f-131">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="516" y="560" as="sourcePoint" />
+            <mxPoint x="606" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="560" />
+              <mxPoint x="460" y="360" />
+              <mxPoint x="460" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ0oxciB_dJQakIOD-1f-175" value="&lt;font size=&quot;1&quot; color=&quot;#000033&quot;&gt;&lt;b style=&quot;&quot;&gt;Passing data or events through synchronous or asynchronous interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;container=0;" vertex="1" parent="1">
+          <mxGeometry x="438" y="293" width="149" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
