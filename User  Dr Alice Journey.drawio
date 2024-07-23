@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T12:42:51.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8i7ImKf3H6dMWKA7RTVF" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T12:50:03.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1Ytc9nqbSdLzrUtEEuDK" version="24.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11834" dy="11522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -43,8 +43,11 @@
         <mxCell id="FQBWLW0qRdSLTxVGlONL-18" value="Monitor Claims (Dashboard)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-10010" y="-10200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FQBWLW0qRdSLTxVGlONL-19" value="Receives automatic confirmation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-19" value="Notification of approval or +info needed" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-9826" y="-10210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-21" value="Confirm payment and update patient record" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00000f;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-9640" y="-10210" width="88" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
