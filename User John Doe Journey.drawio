@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T14:51:54.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SRWZhY56JV_N4t0aOCEb" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T14:53:00.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VL6UWZDPlWmPaXr_8X5i" version="24.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="11571" dy="11368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="12021" dy="11632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
         <mxCell id="weAqaZ1hDL-OeumKPV3R-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="weAqaZ1hDL-OeumKPV3R-56" target="weAqaZ1hDL-OeumKPV3R-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weAqaZ1hDL-OeumKPV3R-56" value="&lt;b&gt;Analyze rejection claims and adjust doc process&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#c87ee3;" vertex="1" parent="1">
+        <mxCell id="weAqaZ1hDL-OeumKPV3R-56" value="Analyze rejection claims and adjust doc process" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#c87ee3;strokeColor=#E5CCFF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-10084" y="-10010" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-57" value="Exit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ef4734;strokeColor=#D71515;dashed=1;dashPattern=8 8;fillStyle=solid;gradientColor=none;opacity=80;" vertex="1" parent="1">
