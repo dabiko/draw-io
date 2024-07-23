@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T01:53:32.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HLQ1kfTTPi3WewzS4d2Q" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T01:56:08.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sK3n_mu8i01511KPqllD" version="24.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="11921" dy="11574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="11329" dy="11226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,6 +41,24 @@
         </mxCell>
         <mxCell id="8O94-uSJWb2Wjs44FVSJ-7" value="Exit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=8 8;fillStyle=solid;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="-9690" y="-10356" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8O94-uSJWb2Wjs44FVSJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8O94-uSJWb2Wjs44FVSJ-13" target="8O94-uSJWb2Wjs44FVSJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O94-uSJWb2Wjs44FVSJ-13" value="User Account Debited" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-10120" y="-10230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O94-uSJWb2Wjs44FVSJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8O94-uSJWb2Wjs44FVSJ-14" target="8O94-uSJWb2Wjs44FVSJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O94-uSJWb2Wjs44FVSJ-14" value="Notification (SMS/EMAIL)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-10120" y="-10090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O94-uSJWb2Wjs44FVSJ-15" value="Dashboard Updated&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-9910" y="-10080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8O94-uSJWb2Wjs44FVSJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8O94-uSJWb2Wjs44FVSJ-5" target="8O94-uSJWb2Wjs44FVSJ-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
