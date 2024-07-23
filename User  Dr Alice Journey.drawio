@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T13:02:04.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qjNqyjl7daIjs0V5EsdT" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T13:05:00.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YKT3sRJvGDW-SRY8SfPO" version="24.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="12136" dy="11700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="11834" dy="11522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,13 +115,13 @@
         <mxCell id="FQBWLW0qRdSLTxVGlONL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-21" target="FQBWLW0qRdSLTxVGlONL-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FQBWLW0qRdSLTxVGlONL-21" value="Confirm payment and update patient record" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00000f;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-21" value="Confirm payment and update patient record" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00000f;fontColor=#ffffff;strokeColor=#FF66FF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-9628" y="-10214" width="88" height="88" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-24" target="FQBWLW0qRdSLTxVGlONL-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FQBWLW0qRdSLTxVGlONL-24" value="Review Process for&amp;nbsp; improvements" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#c87ee3;dashed=1;" vertex="1" parent="1">
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-24" value="Review Process for&amp;nbsp; improvements" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#c87ee3;dashed=1;strokeColor=#B266FF;" vertex="1" parent="1">
           <mxGeometry x="-9634" y="-10020" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-25" value="Exit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ef4734;strokeColor=#D71515;dashed=1;dashPattern=8 8;fillStyle=solid;gradientColor=none;opacity=80;" vertex="1" parent="1">
