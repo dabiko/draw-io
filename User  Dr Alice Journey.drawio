@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T13:06:40.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MVHVOHavNSTkk434eKqB" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T13:14:20.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="a9l1zXqc_1uiGxCLh9KV" version="24.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11834" dy="11522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -104,33 +104,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-18" value="Monitor Claims (Dashboard)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-10010" y="-10200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10010" y="-10227" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FQBWLW0qRdSLTxVGlONL-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-9628" y="-10170" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-19" target="FQBWLW0qRdSLTxVGlONL-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-19" value="Notification of approval or +info needed" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-9826" y="-10210" width="120" height="80" as="geometry" />
+          <mxGeometry x="-9826" y="-10237" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FQBWLW0qRdSLTxVGlONL-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-24" target="FQBWLW0qRdSLTxVGlONL-25">
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-24" target="FQBWLW0qRdSLTxVGlONL-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-24" value="Review Process for&amp;nbsp; improvements" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#c87ee3;dashed=1;strokeColor=#B266FF;" vertex="1" parent="1">
-          <mxGeometry x="-9620" y="-10015" width="100" height="60" as="geometry" />
+          <mxGeometry x="-9660" y="-9995" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-25" value="Exit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ef4734;strokeColor=#D71515;dashed=1;dashPattern=8 8;fillStyle=solid;gradientColor=none;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-9480" y="-10010" width="100" height="50" as="geometry" />
+          <mxGeometry x="-9490" y="-9990" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-17" target="FQBWLW0qRdSLTxVGlONL-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FQBWLW0qRdSLTxVGlONL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-50" target="FQBWLW0qRdSLTxVGlONL-24">
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-50" target="FQBWLW0qRdSLTxVGlONL-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQBWLW0qRdSLTxVGlONL-50" value="Confirm payment and update patient record" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="-9640" y="-10190" width="140" height="60" as="geometry" />
+          <mxGeometry x="-9680" y="-10110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-52" target="FQBWLW0qRdSLTxVGlONL-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-55" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FQBWLW0qRdSLTxVGlONL-54">
+          <mxGeometry x="-0.0688" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-52" target="FQBWLW0qRdSLTxVGlONL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-52" value="Additional Info" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-9650" y="-10237" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQBWLW0qRdSLTxVGlONL-53" target="FQBWLW0qRdSLTxVGlONL-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-9440" y="-10080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FQBWLW0qRdSLTxVGlONL-53" value="Update claims with addional docs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-9490" y="-10237" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
