@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:39:58.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0nLNYhbnKDjmP2GzlrDi" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T01:13:10.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VhcNieNOtXuStYjEspnb" version="24.7.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11050" dy="10617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -13,8 +13,11 @@
         <mxCell id="X9ass70m3cK7fkNfl3eS-97" value="User Visit&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-9470" y="-9600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X9ass70m3cK7fkNfl3eS-98" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-9180" y="-9590" width="80" height="80" as="geometry" />
+        <mxCell id="X9ass70m3cK7fkNfl3eS-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9ass70m3cK7fkNfl3eS-98" target="X9ass70m3cK7fkNfl3eS-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-98" value="User Insured?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-9470" y="-9080" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X9ass70m3cK7fkNfl3eS-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9ass70m3cK7fkNfl3eS-99" target="X9ass70m3cK7fkNfl3eS-106">
           <mxGeometry relative="1" as="geometry" />
@@ -30,6 +33,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9ass70m3cK7fkNfl3eS-106" target="X9ass70m3cK7fkNfl3eS-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-123" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X9ass70m3cK7fkNfl3eS-122">
+          <mxGeometry x="-0.11" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X9ass70m3cK7fkNfl3eS-106" value="Health ID?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-9470" y="-9370" width="80" height="80" as="geometry" />
         </mxCell>
@@ -38,6 +49,28 @@
         </mxCell>
         <mxCell id="X9ass70m3cK7fkNfl3eS-110" value="Exit Pharmacy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;fillStyle=solid;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="-9680" y="-9355" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9ass70m3cK7fkNfl3eS-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-9430" y="-9080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-117" value="Pharmacy verifies ID with Insured Agency" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-9490" y="-9210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-9630" y="-9300" as="targetPoint" />
+            <mxPoint x="-9470" y="-9040" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-127" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X9ass70m3cK7fkNfl3eS-126">
+          <mxGeometry x="0.4421" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9ass70m3cK7fkNfl3eS-129" value="Health ID Active?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-9320" y="-9080" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
