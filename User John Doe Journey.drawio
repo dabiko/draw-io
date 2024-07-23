@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T14:31:57.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UpprDV5t1C-IVZEUE_ti" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T14:32:48.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5g4h5v1hVS0iRaJ8C7x4" version="24.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11626" dy="11400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           <mxGeometry x="-10360" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dr. Alice (General Practitioner)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-10500" y="-10680" width="80" height="80" as="geometry" />
+          <mxGeometry x="-10500" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="weAqaZ1hDL-OeumKPV3R-2" target="weAqaZ1hDL-OeumKPV3R-3">
           <mxGeometry relative="1" as="geometry" />
