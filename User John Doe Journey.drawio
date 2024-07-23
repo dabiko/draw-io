@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T13:53:44.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SaWCDQ5MeHjixAC8Ak1Y" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T14:02:36.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q0-3FBT38_ieto7dKn2s" version="24.7.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11626" dy="11400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -8,46 +8,49 @@
           <mxGeometry x="-10000" y="-10732" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9ass70m3cK7fkNfl3eS-97" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;John Doe (Pharmacist)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-10360" y="-10680" width="80" height="80" as="geometry" />
+          <mxGeometry x="-10360" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dr. Alice (General Practitioner)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="-10500" y="-10680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-2" value="Receives Prescription" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-10200" y="-10680" width="80" height="80" as="geometry" />
+          <mxGeometry x="-10200" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-3" value="Gather prescription detials" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-10200" y="-10550" width="80" height="80" as="geometry" />
+          <mxGeometry x="-10040" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-4" value="Accessing System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-10080" y="-10540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9920" y="-10630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-5" value="Logged In?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-9880" y="-10550" width="80" height="80" as="geometry" />
+          <mxGeometry x="-9720" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-6" value="Existing Account ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-9720" y="-10550" width="80" height="80" as="geometry" />
+          <mxGeometry x="-9560" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-7" value="Contact Support (Admin)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-9560" y="-10550" width="80" height="80" as="geometry" />
+          <mxGeometry x="-9400" y="-10640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-8" value="Sign In" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-9720" y="-10400" width="80" height="80" as="geometry" />
+          <mxGeometry x="-9390" y="-10500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-9" value="Submit prescription details and attachments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-9900" y="-10390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9560" y="-10490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-10" value="Acknowledge Receipt concerning claims" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-10080" y="-10390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9740" y="-10490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-11" value="Check Status for regular Updates" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-10080" y="-10270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9740" y="-10370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-12" value="Updates ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-9890" y="-10280" width="80" height="80" as="geometry" />
+          <mxGeometry x="-9540" y="-10380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weAqaZ1hDL-OeumKPV3R-13" value="Update claims with docs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-9720" y="-10280" width="80" height="80" as="geometry" />
+          <mxGeometry x="-9390" y="-10380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weAqaZ1hDL-OeumKPV3R-14" value="Notified for approval or rejection" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-9900" y="-10150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
