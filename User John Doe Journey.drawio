@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T20:06:51.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PTI4E5v9aeQfjXx_VIe3" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-28T20:09:54.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EHqwzsSi-GUFVT9VAfoz" version="24.7.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11571" dy="11368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -141,11 +141,22 @@
         <mxCell id="JFNYLDq66HlWQTlTvcfP-36" value="YES || NO drug listing in sequence, Qty and dosage in the system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-9960" y="-10390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-37" target="JFNYLDq66HlWQTlTvcfP-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-37" value="Drug listing, cost and Patient policy/contact e.g. 80% (Automatic Calculation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-9800" y="-10390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-41" target="JFNYLDq66HlWQTlTvcfP-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-41" target="JFNYLDq66HlWQTlTvcfP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-55" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JFNYLDq66HlWQTlTvcfP-52">
+          <mxGeometry x="-0.136" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-41" value="Request code validation&amp;nbsp; (Email-SMS)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-9640" y="-10400" width="120" height="80" as="geometry" />
@@ -155,6 +166,18 @@
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-46" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JFNYLDq66HlWQTlTvcfP-45">
           <mxGeometry x="-0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-42" target="JFNYLDq66HlWQTlTvcfP-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-9440" y="-10240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-54" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JFNYLDq66HlWQTlTvcfP-53">
+          <mxGeometry x="0.01" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -171,6 +194,9 @@
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-43" value="Resent Request for code" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-9480" y="-10535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-51" value="Input Valid code sent via SMS || Email" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-9640" y="-10270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
