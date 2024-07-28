@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T20:49:35.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vbZACnv9gtdsWCM9qka6" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-28T21:02:35.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YHIR8g_QFaR7jZ8dobwe" version="24.7.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11571" dy="11368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -246,8 +246,43 @@
         <mxCell id="JFNYLDq66HlWQTlTvcfP-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-78" target="JFNYLDq66HlWQTlTvcfP-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-78" target="JFNYLDq66HlWQTlTvcfP-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-78" value="PEC received by AREA BO System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-9660" y="-10130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-81" target="JFNYLDq66HlWQTlTvcfP-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-81" value="Check Patient contract/policy record by ID (Account Balanced)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-9660" y="-10020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-82" target="JFNYLDq66HlWQTlTvcfP-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-82" value="Automatic account debit of x-XAF. Patient Account&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#c87ee3;" vertex="1" parent="1">
+          <mxGeometry x="-9490" y="-10020" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-83" value="Notification, &lt;br&gt;Email || SMS &lt;br&gt;Payment to AREA , HSP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-9530" y="-9750" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-84" target="JFNYLDq66HlWQTlTvcfP-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-90" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JFNYLDq66HlWQTlTvcfP-89">
+          <mxGeometry x="-0.245" y="1" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-84" value="Account debited ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-9480" y="-9910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-87" target="JFNYLDq66HlWQTlTvcfP-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-87" value="Contact Support (Admin)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC99FF;strokeColor=#B266FF;fontColor=#ffffff;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-9640" y="-9910" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
