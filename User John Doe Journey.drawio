@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T21:23:06.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cV6G0qOC9pP88tKJ2w7_" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-28T21:26:23.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vxeRF9SsBSlkAuoula5P" version="24.7.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="12021" dy="11632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
         <mxCell id="JFNYLDq66HlWQTlTvcfP-87" value="Contact Support (Admin)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC99FF;strokeColor=#B266FF;fontColor=#ffffff;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="-9640" y="-9910" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JFNYLDq66HlWQTlTvcfP-94" value="User PEC dashboard&amp;nbsp; updated" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-94" value="User PEC dashboard&amp;nbsp; updated" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-9730" y="-9610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-95" value="HSP dashboard&amp;nbsp; updated" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
@@ -307,13 +307,13 @@
         <mxCell id="JFNYLDq66HlWQTlTvcfP-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-96" target="JFNYLDq66HlWQTlTvcfP-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JFNYLDq66HlWQTlTvcfP-96" value="Notification, &lt;br&gt;Email || SMS &lt;br&gt;Payment to Patient" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-96" value="Notification, &lt;br&gt;Email || SMS &lt;br&gt;Payment to Patient" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-9750" y="-9750" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-97" target="JFNYLDq66HlWQTlTvcfP-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JFNYLDq66HlWQTlTvcfP-97" value="PEC BO dashboard&amp;nbsp; updated" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-97" value="PEC BO dashboard&amp;nbsp; updated" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="-9500" y="-9610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-104" target="JFNYLDq66HlWQTlTvcfP-106">
