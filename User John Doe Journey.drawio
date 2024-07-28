@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T20:10:33.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rLf1zg1dpe6kqlkOec6b" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-28T20:19:40.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lntNFG89Qm5kgGw_cGHU" version="24.7.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11571" dy="11368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-54" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JFNYLDq66HlWQTlTvcfP-53">
           <mxGeometry x="0.01" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-42" value="Email-SMS received ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -197,6 +197,24 @@
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-51" value="Input Valid code sent via SMS || Email" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-9640" y="-10270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-56" target="JFNYLDq66HlWQTlTvcfP-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-56" value="Validate PEC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-9800" y="-10270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-57" value="Checkbox to Acknowledge reception of Hard copy documents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-10120" y="-10270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-58" value="Generate PEC receipt with dates (Received, payment etc.)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-9800" y="-10160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-59" target="JFNYLDq66HlWQTlTvcfP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-59" value="Notification (Email -SMS) sent to AREA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-9960" y="-10280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
