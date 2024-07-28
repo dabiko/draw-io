@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T20:31:01.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EZ6dFvhCbd1NJb_u4-eR" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-28T20:31:23.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7xSq7QWZYigRBiOuCKAf" version="24.7.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="11571" dy="11368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -205,10 +205,13 @@
           <mxGeometry x="-9800" y="-10270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-57" value="Checkbox to Acknowledge reception of Hard copy documents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-9690" y="-9990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9680" y="-10130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-58" target="JFNYLDq66HlWQTlTvcfP-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-58" value="Generate PEC receipt with dates (Received, payment etc.)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-9800" y="-10150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9830" y="-10130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-59" target="JFNYLDq66HlWQTlTvcfP-63">
           <mxGeometry relative="1" as="geometry" />
@@ -233,6 +236,9 @@
           <mxGeometry x="0.0617" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JFNYLDq66HlWQTlTvcfP-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFNYLDq66HlWQTlTvcfP-63" target="JFNYLDq66HlWQTlTvcfP-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFNYLDq66HlWQTlTvcfP-63" value="Email/SMS sent ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-9940" y="-10140" width="80" height="80" as="geometry" />
