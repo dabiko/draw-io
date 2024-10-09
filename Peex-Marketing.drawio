@@ -35,16 +35,16 @@
           <mxGeometry x="815" y="680" width="210" height="63" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-11" value="COLLECT EN MASSE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="590" y="280" width="150" height="60" as="geometry" />
+          <mxGeometry x="400" y="193" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-12" value="EMF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="193" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-19" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#006600;shape=mxgraph.mscae.enterprise.application_server2" vertex="1" parent="1">
           <mxGeometry x="324.22" y="290" width="211.56" height="246" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-23" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;REMITTANCE&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FF8000;shape=mxgraph.azure.server" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="100" height="30" as="geometry" />
+          <mxGeometry x="334" y="360" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-26" value="&lt;b&gt;PEEX ECOSYSTEM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcc99;strokeWidth=1;rounded=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="163" width="130" height="30" as="geometry" />
