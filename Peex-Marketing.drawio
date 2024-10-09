@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="SfVXjJMxJvIR2DUhF9N2">
-    <mxGraphModel dx="1500" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="815" y="680" width="210" height="63" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-11" value="COLLECT EN MASSE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="400" y="193" width="150" height="60" as="geometry" />
+          <mxGeometry x="385.78" y="60" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-12" value="EMF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="840" y="193" width="120" height="60" as="geometry" />
@@ -45,6 +45,15 @@
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#009900;shape=mxgraph.azure.laptop;pointerEvents=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="220" width="145" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="MirSpIWI6XTZy0-F90U4-27" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#006600;shape=mxgraph.mscae.enterprise.application_server2" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="211.56" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="MirSpIWI6XTZy0-F90U4-28" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#006600;shape=mxgraph.mscae.enterprise.application_server2" vertex="1" parent="1">
+          <mxGeometry x="990" y="310" width="211.56" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="MirSpIWI6XTZy0-F90U4-29" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;COLLECTE EN MASSE&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FF8000;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
