@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="SfVXjJMxJvIR2DUhF9N2">
-    <mxGraphModel dx="1500" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MirSpIWI6XTZy0-F90U4-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;dashPattern=8 8;fillStyle=solid;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="800" y="559" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MirSpIWI6XTZy0-F90U4-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MirSpIWI6XTZy0-F90U4-45" target="MirSpIWI6XTZy0-F90U4-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;dashPattern=8 8;fillStyle=solid;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="518" y="559" width="160" height="280" as="geometry" />
@@ -15,9 +18,6 @@
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;dashPattern=8 8;fillStyle=solid;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="245" y="560" width="160" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="MirSpIWI6XTZy0-F90U4-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="47.39" y="500" width="70.22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-19" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#006600;shape=mxgraph.mscae.enterprise.application_server2" vertex="1" parent="1">
           <mxGeometry x="240.00000000000003" y="186" width="211.56" height="246" as="geometry" />
@@ -65,6 +65,12 @@
           <mxGeometry x="820" y="590" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MirSpIWI6XTZy0-F90U4-34" target="MirSpIWI6XTZy0-F90U4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MirSpIWI6XTZy0-F90U4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.812;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MirSpIWI6XTZy0-F90U4-46" target="MirSpIWI6XTZy0-F90U4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MirSpIWI6XTZy0-F90U4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.159;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MirSpIWI6XTZy0-F90U4-43" target="MirSpIWI6XTZy0-F90U4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
