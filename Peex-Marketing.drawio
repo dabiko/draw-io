@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MirSpIWI6XTZy0-F90U4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;dashPattern=8 8;fillStyle=solid;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="60" y="670" width="810" height="430" as="geometry" />
+        <mxCell id="MirSpIWI6XTZy0-F90U4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;dashPattern=8 8;fillStyle=solid;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="206" y="107" width="850" height="430" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="695" width="200" height="130" as="geometry" />
+          <mxGeometry x="880" y="743" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MirSpIWI6XTZy0-F90U4-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="670" width="210" height="130" as="geometry" />
