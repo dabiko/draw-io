@@ -5,34 +5,52 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DTaPLWZy14P03JlSzewD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="60" y="390" width="210" height="210" as="geometry" />
+          <mxGeometry x="40" y="170" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-2" value="INSPECTA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="105" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="420" y="393" width="210" height="210" as="geometry" />
+          <mxGeometry x="360" y="165" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="DTaPLWZy14P03JlSzewD-5" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;API INTERGRATION&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="430" y="462" width="190" height="60" as="geometry" />
+        <mxCell id="DTaPLWZy14P03JlSzewD-5" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;API INTERGRATION&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="370" y="234" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="770" y="380" width="210" height="240" as="geometry" />
+          <mxGeometry x="670" y="150" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-9" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 20px;&quot;&gt;E-Commerce&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#ffffff;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="780" y="406" width="190" height="34" as="geometry" />
+          <mxGeometry x="680" y="176" width="190" height="34" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-10" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;SMEs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#ffffff;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="780" y="450" width="190" height="30" as="geometry" />
+          <mxGeometry x="680" y="220" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-11" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;Subscription&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#ffffff;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="780" y="490" width="190" height="30" as="geometry" />
+          <mxGeometry x="680" y="260" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-12" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;NGOs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#ffffff;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="780" y="530" width="190" height="30" as="geometry" />
+          <mxGeometry x="680" y="300" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-13" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;Event &amp;amp; Ticketing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#ffffff;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="780" y="570" width="190" height="30" as="geometry" />
+          <mxGeometry x="680" y="340" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTaPLWZy14P03JlSzewD-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DTaPLWZy14P03JlSzewD-16" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 20px;&quot;&gt;Jiji Uganda&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;fontColor=#ffffff;strokeColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="456" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="DTaPLWZy14P03JlSzewD-17" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;Jumia Uganda&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;fontColor=#ffffff;strokeColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTaPLWZy14P03JlSzewD-18" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;Kikuu Uganda&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;fontColor=#ffffff;strokeColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTaPLWZy14P03JlSzewD-19" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;UEDCL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;fontColor=#ffffff;strokeColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="580" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTaPLWZy14P03JlSzewD-20" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;DSTV&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;fontColor=#ffffff;strokeColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
