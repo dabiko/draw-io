@@ -10,7 +10,7 @@
         <mxCell id="DTaPLWZy14P03JlSzewD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="DTaPLWZy14P03JlSzewD-23">
           <mxGeometry width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="DTaPLWZy14P03JlSzewD-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;INSPECTA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="DTaPLWZy14P03JlSzewD-23">
+        <mxCell id="DTaPLWZy14P03JlSzewD-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;INSPECTA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;fontColor=#ffffff;strokeColor=#FFB366;" vertex="1" parent="DTaPLWZy14P03JlSzewD-23">
           <mxGeometry x="45" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-24" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="DTaPLWZy14P03JlSzewD-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="DTaPLWZy14P03JlSzewD-24">
           <mxGeometry width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="DTaPLWZy14P03JlSzewD-5" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;API INTERGRATION&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="DTaPLWZy14P03JlSzewD-24">
+        <mxCell id="DTaPLWZy14P03JlSzewD-5" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;API INTERGRATION&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#ffffff;strokeColor=#6666FF;" vertex="1" parent="DTaPLWZy14P03JlSzewD-24">
           <mxGeometry x="10" y="69" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTaPLWZy14P03JlSzewD-25" value="" style="group" vertex="1" connectable="0" parent="1">
