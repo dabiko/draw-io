@@ -174,11 +174,22 @@
         <mxCell id="H57STHbfpx9zfRplNJwE-1" value="Merchant Dashbaord" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gpSqNB2NegEyTWn8L7Yv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H57STHbfpx9zfRplNJwE-2" target="gpSqNB2NegEyTWn8L7Yv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H57STHbfpx9zfRplNJwE-2" value="Admin Dashbaord&lt;div&gt;&amp;nbsp;(REMITX PAS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s25m3Svu_vm1l6Dzi0I7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pXxOpRxuMWk8S_mcfsqN-21" target="H57STHbfpx9zfRplNJwE-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpSqNB2NegEyTWn8L7Yv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpSqNB2NegEyTWn8L7Yv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpSqNB2NegEyTWn8L7Yv-1" value="&lt;div style=&quot;&quot;&gt;Airtel and MTN Money Wallet&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;strokeColor=#C73500;align=center;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="950" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
