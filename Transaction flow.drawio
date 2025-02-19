@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="ZfeTRj6KhZ61jOfrh0ln">
-    <mxGraphModel dx="1500" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,11 @@
         <mxCell id="kcWeRtJJE4qR69ZITuoe-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Admin CU (BO)&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;" vertex="1" parent="1">
           <mxGeometry x="70" y="430" width="166.91" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="kcWeRtJJE4qR69ZITuoe-12" value="Beneficiary&#39;s Phone" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="430" width="32.5" height="50" as="geometry" />
+        <mxCell id="kcWeRtJJE4qR69ZITuoe-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Beneficiary&#39;s Phone&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="510" width="32.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kcWeRtJJE4qR69ZITuoe-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Peex Portal&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/management/provider_cloud_portal_service.svg;" vertex="1" parent="1">
+          <mxGeometry x="585" y="360" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
