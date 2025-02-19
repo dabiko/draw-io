@@ -18,7 +18,7 @@
         <mxCell id="kcWeRtJJE4qR69ZITuoe-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Stripe Account&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-4/256/stripe-logo-fill-128.png" vertex="1" parent="1">
           <mxGeometry x="452.46" y="16" width="202" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="kcWeRtJJE4qR69ZITuoe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;flowAnimation=1;shadow=1;" edge="1" parent="1">
+        <mxCell id="kcWeRtJJE4qR69ZITuoe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;flowAnimation=1;shadow=1;strokeColor=#0066CC;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="538.4285714285716" y="560" as="sourcePoint" />
             <mxPoint x="538.4285714285716" y="218" as="targetPoint" />
@@ -46,7 +46,7 @@
             <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kcWeRtJJE4qR69ZITuoe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;flowAnimation=1;shadow=1;" edge="1" parent="1">
+        <mxCell id="kcWeRtJJE4qR69ZITuoe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;flowAnimation=1;shadow=1;strokeColor=#0066CC;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="578.4285714285716" y="218" as="sourcePoint" />
             <mxPoint x="578.6319100000001" y="563.24" as="targetPoint" />
